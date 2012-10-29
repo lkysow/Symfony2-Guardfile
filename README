@@ -1,0 +1,5 @@
+Put this Guardfile in the root of your Symfony2 project and use it to watch your Symfony2 tests.
+
+Your test directory structure must mirror your actual directory structure.
+
+Example: My Cat.php model in src/Org/MyBundle/model/Cat.php must have its corresponding test in src/Org/MyBundle/Tests/model/CatTest.php
